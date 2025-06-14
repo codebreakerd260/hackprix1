@@ -1,10 +1,11 @@
-## Tech Stack
-- Frontend: Vite + React + Tailwind
-- Backend: FastAPI
-- DB: MongoDB Atlas
-- Auth: JWT
-- Dev Tooling: Docker + Docker Compose
+## HackPrix — Aura Farming with FARM Stack 🌾🚀
 
-## Getting Started
-1. Create `.env` files in `server/` and `client/` (sample below)
-2. Run: `docker-compose up --build`
+### 🧪 Tech Stack
+- FastAPI + MongoDB + Docker
+- Vite + React + Tailwind CSS
+
+### 🛠️ Getting Started
+
+```bash
+# Start all services
+docker-compose up --build
